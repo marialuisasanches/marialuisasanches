@@ -2,13 +2,10 @@
 ### Bem-vindo(a) ao meu perfil!☕
 #### Atualmente estou estudando Python e Java
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marialuisasanches&show_icons=true&theme=dracula" width="400">
-</p>
 
 <div>
  <p align="center">

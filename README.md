@@ -5,9 +5,11 @@
 Atualmente estou focada em **HTML, CSS e JavaScript**, construindo projetos práticos para evoluir minhas habilidades e consolidar minha base no desenvolvimento web.
 
 <div style="display: inline_block"><br>
+   <p align="center">
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     </p>
 </div>
 
 ### 🌐 Onde me encontrar

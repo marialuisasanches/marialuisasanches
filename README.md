@@ -1,12 +1,16 @@
 ## Oie, eu sou a Maria Luisa!
 ### Bem-vindo(a) ao meu perfil!☕
 
+💻 Desenvolvedora em formação, apaixonada por tecnologia e em constante aprendizado.  
+Atualmente estou focada em **HTML, CSS e JavaScript**, construindo projetos práticos para evoluir minhas habilidades e consolidar minha base no desenvolvimento web.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+### 🌐 Onde me encontrar
 <div>
  <p align="center">
 
@@ -20,3 +24,5 @@
 </p>
 
 </div>
+
+🤝 Aberta a conexões, feedbacks e colaborações!

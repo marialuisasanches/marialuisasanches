@@ -1,33 +1,14 @@
-## Oie, eu sou a Maria Luisa!
-### Bem-vindo(a) ao meu perfil!☕
+Oie, eu sou a Maria Luisa Sanches!
 
-💻 Desenvolvedora em formação, apaixonada por tecnologia e em constante aprendizado.  
-Atualmente estou focada em **HTML, CSS e JavaScript**, construindo projetos práticos para evoluir minhas habilidades e consolidar minha base no desenvolvimento web.
+Bem-vindo(a) ao meu perfil ☕
 
-<div style="display: inline_block"><br>
-   <p align="center">
-  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-git" src="https://skillicons.dev/icons?i=git" height="30" width="40" alt= />
-  <img align="center" alt="Maria-github"  src="https://skillicons.dev/icons?i=github" height="30" width="40"  />
-  </p>
-</div>
+💻 Desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo.
+Atualmente focada em HTML, CSS e JavaScript, criando projetos práticos para fortalecer minha base no desenvolvimento web e evoluir como dev.
 
-### 🌐 Onde me encontrar
-<div>
- <p align="center">
+🚀 Tecnologias que estou estudando
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" /> </p>
+🌐 Onde me encontrar
+<p align="center"> <a href="mailto:marialuisarmsanchess@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maria-luisa-sanches-ba22b1322/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white" /> </a> </p>
 
-  <a href="mailto:marialuisarmsanchess@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-   <a href="https://www.linkedin.com/in/maria-luisa-sanches-ba22b1322/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin-in&logoColor=white">
-</a>
-
-</p>
-
-</div>
-
-🤝 Aberta a conexões, feedbacks e colaborações!
+🤝 Aberta a conexões, feedbacks e colaborações.
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀

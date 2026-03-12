@@ -24,4 +24,4 @@ Estou sempre em busca de oportunidades para aplicar meus conhecimentos e evoluir
 ![](https://github-readme-stats.vercel.app/api?username=marialuisasanches&theme=dark&hide_border=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marialuisasanches&theme=dark&hide_border=true)
 
-![Snake animation](https://github.com/marialuisasanches/marialuisasanches/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/marialuisasanches/marialuisasanches/output/github-contribution-grid-snake-dark.svg)

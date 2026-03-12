@@ -15,7 +15,7 @@ Estou sempre em busca de oportunidades para aplicar meus conhecimentos e evoluir
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github)](https://skillicons.dev)
 
 ---
 

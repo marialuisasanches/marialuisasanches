@@ -17,11 +17,7 @@ Estou sempre em busca de oportunidades para aplicar meus conhecimentos e evoluir
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github)](https://skillicons.dev)
 
----
 
-![Snake animation](https://raw.githubusercontent.com/marialuisasanches/marialuisasanches/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marialuisasanches&theme=tokyonight&hide_border=true&show_icons=true&card_width=250)&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=marialuisasanches&theme=tokyonight&hide_border=true&card_width=300)

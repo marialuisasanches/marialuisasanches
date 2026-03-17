@@ -39,6 +39,7 @@ Sempre em busca de novos desafios e oportunidades para crescer como profissional
 
 - LinkedIn: [maria-luisa-sanches](https://linkedin.com/in/maria-luisa-sanches)
 - E-mail: marialuisasanches.dev@gmail.com
+<br><br>
 
 </td>
 </tr>

@@ -1,23 +1,47 @@
-# Maria Luisa Sanches
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="45%" align="center">
+
+<img src="./assets/imagemgit.jpg" width="340" alt="gravura clássica" />
+
+</td>
+<td width="55%" valign="top" style="padding-left: 32px;">
+
+## Maria Luisa Sanches
 
 Desenvolvedora Front-End com experiência em HTML, CSS, JavaScript, React e Tailwind CSS.
-Tenho paixão por transformar ideias em experiências digitais intuitivas e funcionais.
-Estou sempre em busca de oportunidades para aplicar meus conhecimentos e evoluir como profissional.
+Apaixonada por transformar ideias em experiências digitais intuitivas e funcionais.
+Sempre em busca de novos desafios e oportunidades para crescer como profissional.
 
 ---
 
-## 🌐 Socials:
+### Áreas de interesse
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-luisa-sanches)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialuisasanches.dev@gmail.com)
+- Interfaces intuitivas e acessíveis
+- Design de sistemas e componentização
+- Animações e micro-interações
+- Performance e experiência do usuário
+- Prototipagem com Figma
 
 ---
 
-## 💻 Tech Stack:
+### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github)](https://skillicons.dev)
+- **Front-End:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Ferramentas:** Git, GitHub, Figma, Vite
+- **Estudando:** TypeScript, Node.js
 
+---
 
+### Contato
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marialuisasanches&theme=tokyonight&hide_border=true&show_icons=true&card_width=250)&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=marialuisasanches&theme=tokyonight&hide_border=true&card_width=300)
+- LinkedIn: [maria-luisa-sanches](https://linkedin.com/in/maria-luisa-sanches)
+- E-mail: marialuisasanches.dev@gmail.com
+
+</td>
+</tr>
+</table>
+
+</div>

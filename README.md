@@ -4,7 +4,7 @@
 <tr>
 <td width="45%" align="center">
 
-<img src="./assets/imagemgit.jpg" width="340" alt="gravura clássica" />
+<img src="./assets/imagemgit.avif" width="340" alt="gravura clássica" />
 
 </td>
 <td width="55%" valign="top" style="padding-left: 32px;">

@@ -31,7 +31,7 @@ Sempre em busca de novos desafios e oportunidades para crescer como profissional
 
 - **Front-End:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Ferramentas:** Git, GitHub, Figma, Vite
-- **Estudando:** TypeScript, Node.js
+- **Estudando:** TypeScript
 
 ---
 

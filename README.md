@@ -11,7 +11,7 @@
 
 ## Maria Luisa Sanches
 
-Desenvolvedora Front-End com experiência em HTML, CSS, JavaScript, React e Tailwind CSS.
+Desenvolvedora Front-End com experiência em HTML, CSS, JavaScript e React.
 Apaixonada por transformar ideias em experiências digitais intuitivas e funcionais.
 Sempre em busca de novos desafios e oportunidades para crescer como profissional.
 
@@ -29,9 +29,8 @@ Sempre em busca de novos desafios e oportunidades para crescer como profissional
 
 ### Tecnologias
 
-- **Front-End:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Front-End:** HTML, CSS, JavaScript, React
 - **Ferramentas:** Git, GitHub, Figma, Vite
-- **Estudando:** TypeScript
 
 ---
 

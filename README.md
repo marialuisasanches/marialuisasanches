@@ -21,7 +21,6 @@ Sempre em busca de novos desafios e oportunidades para crescer como profissional
 
 - Interfaces intuitivas e acessíveis
 - Design de sistemas e componentização
-- Animações e micro-interações
 - Performance e experiência do usuário
 - Prototipagem com Figma
 

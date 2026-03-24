@@ -12,7 +12,7 @@ Apaixonada por transformar ideias em experiências digitais intuitivas e funcion
 Sempre em busca de novos desafios e oportunidades para crescer como profissional.
 
 ---
-### 🏆 Destaques
+### Destaques
 - **9º lugar** — Hackathon NewHack · 2026
 
 ---

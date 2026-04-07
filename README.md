@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="height:100%;">
 <tr>
 <td width="45%" valign="top" style="padding:0; height:100%;">
-<img src="./imagemgit.avif" width="100%" height="100%" style="display:block; object-fit:cover;" alt="gravura clássica" />
+<img src="./imagemgit.png" width="100%" height="100%" style="display:block; object-fit:cover;" alt="gravura clássica" />
 </td>
 <td width="55%" valign="top" style="padding-left: 32px;">
 

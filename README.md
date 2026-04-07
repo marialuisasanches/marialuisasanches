@@ -2,8 +2,8 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="45%" align="center">
-<img src="./imagemgit.avif" width="400" alt="gravura clássica" />
+<td width="45%" align="center" valign="top">
+<img src="./imagemgit.avif" width="100%" style="display:block;" alt="gravura clássica" />
 </td>
 <td width="55%" valign="top" style="padding-left: 32px;">
 

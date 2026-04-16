@@ -44,7 +44,7 @@ Interfaces acessíveis · Design de sistemas · Full Stack · Cybersecurity
 ---
  
 ### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maria--luisa--sanches-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/maria-luisa-sanches) [![Email](https://img.shields.io/badge/Email-marialuisarmsanchess%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marialuisarmsanchess@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maria--luisa--sanches-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/maria-luisa-sanches) [![Email](https://img.shields.io/badge/Email-marialuisarmsanchess%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marialuisasanches.dev@gmail.com)
  
 </td>
 </tr>

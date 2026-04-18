@@ -21,15 +21,7 @@ Aberta a estágio remoto. Vamos conversar?
 - 🏆 **9º lugar** — Hackathon NewHack · 2026
 - 🔬 **Bolsista em pesquisa** — IA aplicada a laudos periciais · IFF · 2026
 - 🔐 **ISO/IEC 27001:2022** Information Security Associate™
-- 🌍 **Extensão universitária** — Idosos Conectados: Segurança Digital
- 
----
- 
-### Experiências recentes
-- **ImpactHub** — Plataforma de gestão de eventos e ONGs (React + TypeScript)
-- **CodeSprint** — Plataforma desktop para planejamento de software (Electron + React)
-- **VectaBio** — Landing page para cliente real
- 
+  
 ---
  
 ### Tecnologias

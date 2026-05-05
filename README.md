@@ -13,7 +13,7 @@ Cursando Sistemas de Informação no IFF. Certificada em Segurança da
 Informação (ISO/IEC 27001:2022). Em jornada rumo ao Full Stack e,
 futuramente, Cybersecurity.
  
-Aberta a estágio remoto. Vamos conversar?
+Aberta a estágio. Vamos conversar?
  
 ---
  

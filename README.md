@@ -25,7 +25,7 @@ Aberta a estágio remoto. Vamos conversar?
 ---
  
 ### Tecnologias
-**Front-End:** HTML · CSS · JavaScript · React · TypeScript · Vite  
+**Front-End:** HTML · CSS · JavaScript · React · Vite  
 **Ferramentas:** Git · GitHub · Figma · Vite · Electron
  
 ---

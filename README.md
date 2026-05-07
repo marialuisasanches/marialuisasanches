@@ -17,7 +17,7 @@ Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
 
 ## Stack
 
-**Front-End:** HTML · CSS · JavaScript · TypeScript · React · Vite  
+**Front-End:** HTML · CSS · JavaScript · React · Vite  
 **Ferramentas:** Git · GitHub · Figma · Electron  
 **IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual  
 

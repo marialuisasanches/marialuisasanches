@@ -6,39 +6,46 @@
 </td>
 <td width="60%" valign="top" style="padding-left: 32px;">
  
-## Maria Luisa Sanches
- 
-Desenvolvedora Frontend em formação, com foco em React e JavaScript.
-Cursando Sistemas de Informação no IFF. Certificada em Segurança da
-Informação (ISO/IEC 27001:2022). Em jornada rumo ao Full Stack e,
-futuramente, Cybersecurity.
- 
-Aberta a estágio. Vamos conversar?
- 
+# Maria Luisa Sanches
+
+Desenvolvedora Front-End com atuação em IA aplicada.  
+Construo interfaces com React e trabalho com modelos de linguagem em produção — atualmente em projeto de pesquisa com BERTimbau e LoRA, processando +300 mil documentos/ano em parceria com a SEPOL/RJ.
+
+Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
+
 ---
- 
-### Destaques
-- 🏆 **9º lugar** — Hackathon NewHack · 2026
-- 🔬 **Bolsista em pesquisa** — IA aplicada a laudos periciais · IFF · 2026
-- 🔐 **ISO/IEC 27001:2022** Information Security Associate™
-  
+
+## Stack
+
+**Front-End:** HTML · CSS · JavaScript · TypeScript · React · Vite  
+**Ferramentas:** Git · GitHub · Figma · Electron  
+**IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual  
+
 ---
- 
-### Tecnologias
-**Front-End:** HTML · CSS · JavaScript · React · Vite  
-**Ferramentas:** Git · GitHub · Figma · Vite · Electron
- 
+
+## Destaques
+
+- 🏆 **9º lugar** — Hackathon NewHack 2026
+- 🔬 **Bolsa de Iniciação Científica** — IA aplicada a laudos periciais · IFF + SEPOL/RJ · 2026
+- 🔒 **ISO/IEC 27001:2022** — Information Security Associate
+
 ---
- 
-### Áreas de interesse
-Interfaces acessíveis · Design de sistemas · Full Stack · Cybersecurity
- 
+
+## Projetos
+
+**[Astrova](https://github.com/marialuisasanches/Astrova)**  
+Plataforma de dados espaciais em React que consome múltiplas APIs da NASA com busca dinâmica em tempo real.
+
+**[Reellist](https://github.com/marialuisasanches/Reellist)**  
+Explorador de filmes com a API do TMDB. Busca, favoritos e persistência local — deploy na Vercel.
+
+**[ImpactHub](https://github.com/marialuisasanches/impacthub)**  
+Frontend completo com React + TypeScript + Tailwind CSS. Autenticação, feed dinâmico, painel administrativo e controle de permissões. Testes com Vitest.
+
 ---
- 
-### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maria--luisa--sanches-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/maria-luisa-sanches) [![Email](https://img.shields.io/badge/Email-marialuisarmsanchess%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marialuisasanches.dev@gmail.com)
- 
-</td>
-</tr>
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/maria-luisa-sanches) · [Portfólio](https://maria-luisa-sanches.vercel.app) · marialuisasanches.dev@gmail.com
 </table>
 </div>

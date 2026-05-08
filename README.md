@@ -31,19 +31,6 @@ Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
 
 ---
 
-## Projetos
-
-**[Astrova](https://github.com/marialuisasanches/Astrova)**  
-Plataforma de dados espaciais em React que consome múltiplas APIs da NASA com busca dinâmica em tempo real.
-
-**[Reellist](https://github.com/marialuisasanches/Reellist)**  
-Explorador de filmes com a API do TMDB. Busca, favoritos e persistência local — deploy na Vercel.
-
-**[ImpactHub](https://github.com/marialuisasanches/impacthub)**  
-Frontend completo com React + TypeScript + Tailwind CSS. Autenticação, feed dinâmico, painel administrativo e controle de permissões. Testes com Vitest.
-
----
-
 ## Contato
 
 [LinkedIn](https://linkedin.com/in/maria-luisa-sanches) · [Portfólio](https://maria-luisa-sanches.vercel.app) · marialuisasanches.dev@gmail.com

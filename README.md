@@ -17,7 +17,7 @@ Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
 **IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual  
 ---
 ## Destaques
-- 🥉 **3º lugar** — Hackathon Dia das Mães 2026
+- 🥉 **3º lugar** — Hackathon Dia das Mães 2026 · IA generativa
 - 🏆 **9º lugar** — Hackathon NewHack 2026
 - 🔬 **Bolsa de Iniciação Científica** — IA aplicada a laudos periciais · IFF + SEPOL/RJ · 2026
 - 🔒 **ISO/IEC 27001:2022** — Information Security Associate

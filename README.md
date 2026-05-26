@@ -10,19 +10,28 @@
 Desenvolvedora Front-End com atuação em IA aplicada.  
 Construo interfaces com React e trabalho com modelos de linguagem em produção — atualmente em projeto de pesquisa com BERTimbau e LoRA, processando +300 mil documentos/ano em parceria com a SEPOL/RJ.
 Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
+
 ---
-**Stack**
+
+**Stack**  
 **Front-End:** HTML · CSS · JavaScript · React · Vite  
 **Ferramentas:** Git · GitHub · Figma · Electron  
 **IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual  
+
 ---
-## Destaques
+
+**Destaques**
 - 🥉 **3º lugar** — Hackathon Dia das Mães 2026 · IA generativa
 - 🏆 **9º lugar** — Hackathon NewHack 2026
 - 🔬 **Bolsa de Iniciação Científica** — IA aplicada a laudos periciais · IFF + SEPOL/RJ · 2026
 - 🔒 **ISO/IEC 27001:2022** — Information Security Associate
+
 ---
-## Contato
+
+**Contato**  
 [LinkedIn](https://linkedin.com/in/maria-luisa-sanches) · [Portfólio](https://maria-luisa-sanches.vercel.app) · marialuisasanches.dev@gmail.com
+
+</td>
+</tr>
 </table>
 </div>

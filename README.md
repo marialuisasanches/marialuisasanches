@@ -6,12 +6,12 @@
 </td>
 <td width="60%" valign="top" style="padding-left: 32px;">
  
-# Maria Luisa Sanches
+**Maria Luisa Sanches**
 Desenvolvedora Front-End com atuação em IA aplicada.  
 Construo interfaces com React e trabalho com modelos de linguagem em produção — atualmente em projeto de pesquisa com BERTimbau e LoRA, processando +300 mil documentos/ano em parceria com a SEPOL/RJ.
 Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
 ---
-## Stack
+**Stack**
 **Front-End:** HTML · CSS · JavaScript · React · Vite  
 **Ferramentas:** Git · GitHub · Figma · Electron  
 **IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual  

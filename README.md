@@ -10,7 +10,7 @@
 
 Desenvolvedora Front-End com atuação em IA aplicada.<br/>
 Construo interfaces com React e trabalho com modelos de linguagem em produção — atualmente em projeto de pesquisa com BERTimbau e LoRA, processando documentos em parceria com a SEPOL/RJ.<br/>
-Cursando Sistemas de Informação no IFFluminense · Aberta a estágio.
+Cursando Sistemas de Informação no IFFluminense.
 
 ---
 

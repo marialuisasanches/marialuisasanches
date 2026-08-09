@@ -1,41 +1,23 @@
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0" style="width:100%;">
-<tr>
-<td width="40%" align="center" valign="middle">
-<img src="./imagemgit.png" width="100%" style="display:block; object-fit:cover;" alt="imagem de perfil" />
-</td>
-<td width="60%" valign="top" style="padding-left: 32px;">
+# Maria Luisa Sanches
 
-<h3>Maria Luisa Sanches</h3>
+Desenvolvedora Full-Stack com foco em aplicações de IA.
+Trabalho com React, TypeScript, Node.js e PostgreSQL, construindo tanto interfaces quanto APIs — atualmente como estagiária na **DNA Sistemas**, empresa de automação comercial.
 
-Desenvolvedora Front-End com atuação em IA aplicada.<br/>
-Construo interfaces com React e trabalho com modelos de linguagem em produção — atualmente em projeto de pesquisa com BERTimbau e LoRA, processando documentos em parceria com a SEPOL/RJ.<br/>
+Também sou bolsista de Iniciação Científica no **IFF**, em parceria com a **SEPOL/RJ**, aplicando NLP e LLMs (BERTimbau) no processamento de documentos periciais — um projeto com aplicação real em segurança pública.
+
 Cursando Sistemas de Informação no IFFluminense.
 
 ---
 
-<h3>Stack</h3>
+### Stack
 
-**Front-End:** HTML · CSS · JavaScript · React · Vite<br/>
-**Ferramentas:** Git · GitHub · Figma · Electron<br/>
+**Front-End:** React · TypeScript · Tailwind CSS · Vite
+**Back-End:** Node.js · Fastify · Prisma · PostgreSQL
 **IA/NLP:** BERTimbau · LoRA · pipelines de dados · análise textual
+**Ferramentas:** Git · GitHub · Figma · Docker
 
 ---
 
-<h3>Destaques</h3>
+### Contato
 
-- 🥉 **3º lugar** — Hackathon Dia das Mães 2026 · IA generativa
-- 🏆 **9º lugar** — Hackathon NewHack 2026
-- 🔬 **Bolsa de Iniciação Científica** — IA aplicada a laudos periciais · IFF + SEPOL/RJ · 2026
-- 🔒 **ISO/IEC 27001:2022** — Information Security Associate
-
----
-
-<h3>Contato</h3>
-
-[LinkedIn](https://linkedin.com/in/maria-luisa-sanches) · [Portfólio](https://maria-luisa-sanches.vercel.app) · marialuisasanches.dev@gmail.com
-
-</td>
-</tr>
-</table>
-</div>
+[LinkedIn](https://linkedin.com/in/maria-luisa-sanches) · [Portfólio](https://maria-luisa-sanches.vercel.app) · marialuisarmsanchess@gmail.com

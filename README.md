@@ -1,3 +1,10 @@
+<table>
+<tr>
+<td width="350">
+<img src="./imagemgit.avif" width="350"/>
+</td>
+<td>
+
 # Maria Luisa Sanches
 
 Desenvolvedora Full-Stack com foco em aplicações de IA.

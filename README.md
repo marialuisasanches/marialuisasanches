@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/maria-luisasanches"><img src="https://img.shields.io/badge/LINKEDIN-161b22?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marialuisasanches"><img src="https://img.shields.io/badge/LINKEDIN-161b22?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://maria-luisa-sanches.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=flat-square&logo=safari&logoColor=white" /></a>
 <a href="mailto:marialuisarmsanchess@gmail.com"><img src="https://img.shields.io/badge/GMAIL-161b22?style=flat-square&logo=gmail&logoColor=white" /></a>
 

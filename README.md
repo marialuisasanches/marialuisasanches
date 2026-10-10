@@ -21,7 +21,7 @@
 </td>
 <td width="62%" valign="top">
 
-### Hi, I'm Malu
+### Hi, I'm Maria
 
 Full-Stack Developer focused on applied AI. I build interfaces and APIs with React, TypeScript, Node.js and PostgreSQL, plus AI agents and LLM-powered features for real business workflows. Currently at **DNA Sistemas**, a commercial automation company, where I started as an intern and now work as an **AI Agents Developer | Junior Full-Stack**.
 

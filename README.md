@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="38%" valign="top">
-  <img src="assets/profile.jpg" alt="Maria Luisa Sanches" width="100%" />
+  <img src="assets/coracao.jpg" alt="coracao" width="100%" />
 </td>
 <td width="62%" valign="top">
 
@@ -42,18 +42,11 @@ Studying Information Systems at IFFluminense.
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-21262d?style=flat-square)
-![PWA](https://img.shields.io/badge/PWA_Offline--first-21262d?style=flat-square&logo=pwa&logoColor=white)
 
 **Back-End**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-21262d?style=flat-square&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-21262d?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-21262d?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-21262d?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-21262d?style=flat-square&logo=zod&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-21262d?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **AI / LLM**<br/>
 ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)
@@ -66,7 +59,6 @@ Studying Information Systems at IFFluminense.
 
 **Infra & Tools**<br/>
 ![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-21262d?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262d?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white)

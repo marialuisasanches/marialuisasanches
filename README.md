@@ -71,8 +71,7 @@ Studying Information Systems at IFFluminense.
 - **AI agents** with a custom deterministic orchestrator, tool calling and human-in-the-loop confirmation for sensitive actions
 - **LLM routing** across local and hosted providers (Ollama, DeepSeek, Mistral) with fallback and circuit breaker
 - **Hybrid retrieval (RAG)** combining BM25 and embeddings, with confidence and coverage gates
-- **Offline-first PWAs** and Node/TypeScript APIs, migrating legacy services step by step behind an nginx gateway
-
+- 
 ---
 
 ### Highlights

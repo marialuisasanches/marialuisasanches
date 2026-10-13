@@ -84,19 +84,6 @@ Studying Information Systems at IFFluminense.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=marialuisasanches&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisasanches&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marialuisasanches&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&stroke=30363d&border=30363d" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Always learning, always shipping.</sub>
 </div>
